@@ -1,2 +1,0 @@
-# konyabot
-KonyaBot
